@@ -26,7 +26,7 @@ def nega_fibonacci(n):
 
 print(f"Список чисел (нега)Фибоначчи для {n}: {nega_fibonacci(n)}")
 
-# 2 вариант без в 1 метод
+# 2 вариант в 1 метод
 # f_list = [0]
 # for i in range(1, n+1):
 #     f_list.append(fibonacci(i))
